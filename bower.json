@@ -1,0 +1,22 @@
+{
+  "name": "nuxt-learning",
+  "description": "Nuxt.js project",
+  "main": "",
+  "authors": [
+    "Weyden Herrera"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
